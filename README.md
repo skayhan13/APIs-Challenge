@@ -1,5 +1,3 @@
-# APIs-Challenge
-
 # Python API Homework - What's the Weather Like?
 
 ## Background
@@ -9,8 +7,6 @@ Whether financial, political, or social -- data's true power lies in its ability
 Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
-
-![Equator](Images/equatorsign.png)
 
 ### Before You Begin
 
@@ -68,8 +64,6 @@ Now let's use your skills in working with weather data to plan future vacations.
 To complete this part of the assignment,you will need to do the following:
 
 * Create a heat map that displays the humidity for every city from Part I.
-
-  ![heatmap](Images/heatmap.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
