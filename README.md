@@ -1,5 +1,7 @@
 # Python API Homework - What's the Weather Like?
 
+*add something about how to run this script you need to create an api key ETC.... tell them how to register for one; tell them where to save the folder and how to name it (has to match how it is 
+
 ## Background
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
