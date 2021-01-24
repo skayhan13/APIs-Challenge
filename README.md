@@ -1,7 +1,8 @@
 # Python API Homework - What's the Weather Like?
 
-# Please note, if you will be cloning my repository onto your local machine, it is imperative to register for your own API Key for each module.  You can create a Google API key here:  and a Weather API key here:
-Once your keys have been successfully created, then any place where my script references api_key, you will need to substitute your key.  This key can be hard coded in the first cell, or you may create a .py file called config.py if you wish to use this command located in the first cell "from config import api_key." In the config.py file you will need to have a variable storing the string value of your api key like so: api_key= "YOUR KEY HERE"
+# Please note, if you will be cloning my repository onto your local machine, it is imperative to register for your own API Key for each module.  You can create a Google API key here: https://developers.google.com/places/web-service/get-api-key and a Weather API key here: https://home.openweathermap.org/users/sign_up
+
+Once your keys have been successfully created, then any place where my script references api_key, you will need to substitute your own key.  This key can be hard coded in the first cell, or you may create a .py file called config.py if you wish to use this command located in the first cell "from config import api_key." In the config.py file you will need to have a variable storing the string value of your api key like so: api_key= "YOUR KEY HERE"
 
 ## Background
 
