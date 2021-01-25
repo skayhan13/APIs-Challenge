@@ -4,6 +4,8 @@ Please note, if you will be cloning my repository onto your local machine, it is
 
 Once your keys have been successfully created, any place where my code references api_key, you will need to substitute your own key.  This key can be hard coded in the first cell, or you may create a .py file called config.py if you wish to use this command located in the first cell "from config import api_key." In the config.py file you will need to have a variable storing the string value of your api key like so: api_key= "YOUR KEY HERE"
 
+Another item of importance, since we are working with an API the data is live.  Therefore, the day you run your code will produce different results (and graphs) as opposed to the day I ran my code.  Please utilize the "Images" folder for pngs of all graphs produced.
+
 ## Background
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
